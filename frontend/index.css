@@ -1,0 +1,5 @@
+p{
+  text-decoration: underline;
+  -moz-text-decoration-color: red; /* Code for Firefox */
+  text-decoration-color: red;
+}
